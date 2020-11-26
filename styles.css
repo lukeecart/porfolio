@@ -311,6 +311,7 @@ This is how to get a beautiful trasition from image to text
 .email-input {
 	width: 40rem;
 	padding: 1.2rem 2rem;
+	max-width: 90vw;
 }
 .white {
 	color: #ebebeb;
